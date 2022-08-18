@@ -101,7 +101,8 @@ func GetCfg() *Config {
 
 // LoadConfig 读取配置
 func LoadConfig(cfgPath string) (*Config, error) {
-	cfgPath = getCfgPath(cfgPath)
+	// cfgPath = getCfgPath(cfgPath)
+	cfgPath = "/Users/fliter/etcd-lab/etcd-manage/config/cfg.toml"
 	f, err := os.Open(cfgPath)
 	if err != nil {
 		return nil, err

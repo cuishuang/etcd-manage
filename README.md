@@ -23,3 +23,13 @@ Thanks to JebBrains for allowing a free license to use with developing my applic
 
 [![PyCharm](images/jetbrains_logo.png)](https://www.jetbrains.com/?from=lyanna)
 
+
+<br>
+
+---
+
+<br>
+
+记得改一下 cfgPath = "/Users/fliter/etcd-lab/etcd-manage/config/cfg.toml"
+
+
